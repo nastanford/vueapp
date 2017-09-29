@@ -1,5 +1,5 @@
 {
-  "name": "vueapp",
+  "name": "vueapp1",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "Nathan Stanford Sr <nathan.stanford@gmail.com>",
@@ -10,8 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "vue": "^2.4.2",
-    "vue-router": "^2.7.0"
+    "vue": "^2.4.2"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
